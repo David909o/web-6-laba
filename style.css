@@ -1,0 +1,28 @@
+.field-icon {
+	float: right;
+	margin-left: -25px;
+	margin-top: -25px;
+	position: relative;
+	z-index: 2;
+  }
+  
+  .container{
+	padding-top:50px;
+	margin: auto;
+  }
+
+  .container{
+	padding-top: 100px;
+	padding: 15px 10px; 
+	background-color: #2d2d2d;
+	width: 20%;
+	height: 200px;
+	border-radius: 18px;
+	color: #f2f2ff;
+	margin: auto 10px;
+	text-align: center;
+  }
+
+  .panel-body{
+	text-align: center;
+  }
